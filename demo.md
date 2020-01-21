@@ -30,7 +30,7 @@
 * 上榜理由：又一个价值连城的问题定位，且看文中精彩的问题分析过程！
 
 ## 第四篇
-[《upkafka内置topic默认副本数是1导致upkafka consumer高可用失效》](https://upchat.95516.net/public/html/app/detail.html?id=xxx)
+[《upkafka内置topic默认副本数是1导致upkafka consumer高可用失效》](https://upchat.95516.net/public/html/app/detail.html?id=8235)
 * 作者：公共组件团队、沈光辉
 * 上榜理由：年度最具价值风险预警，你命中了么？
 
